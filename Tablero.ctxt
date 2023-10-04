@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=tama\u00F1o
+comment1.target=Tablero(int)
+comment2.params=
+comment2.target=void\ mostrarTablero()
+comment3.params=fila\ columna\ letra
+comment3.target=void\ colocarLetra(int,\ int,\ char)
+numComments=4

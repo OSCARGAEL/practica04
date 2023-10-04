@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordleGame
+comment1.params=palabraSecreta\ intentos\ tama\u00F1oTablero
+comment1.target=WordleGame(java.lang.String,\ int,\ int)
+comment2.params=palabra
+comment2.target=boolean\ intento(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPalabraSecreta()
+comment4.params=
+comment4.target=boolean\ isJuegoTerminado()
+comment5.params=
+comment5.target=int\ getIntentosRestantes()
+comment6.params=
+comment6.target=void\ mostrarTablero()
+comment7.params=fila\ columna\ letra
+comment7.target=void\ colocarLetraEnTablero(int,\ int,\ char)
+numComments=8
